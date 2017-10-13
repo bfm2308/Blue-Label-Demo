@@ -18,7 +18,7 @@ I used the following third party libraries to create the XML for the request:
  
  The response displayed is as follows: 
  
- <response>
+ "<response>
    <SessionId />
    <EventType>Authentication</EventType>
    <event>
@@ -30,5 +30,5 @@ I used the following third party libraries to create the XML for the request:
       <AeonErrorCode>103</AeonErrorCode>
       <AeonErrorText>Invalid User</AeonErrorText>
    </data>
-</response>
+</response>"
 
