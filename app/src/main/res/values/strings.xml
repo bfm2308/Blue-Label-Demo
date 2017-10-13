@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlueLabelDemo</string>
+    <string name="request_string">Request string is: \n%s</string>
+    <string name="response_string">Response string is: \n%s</string>
+    <string name="authentication">Authentication</string>
+    <string name="pin">12345</string>
+    <string name="device_id">12345</string>
+    <string name="device_ser">ABCDE</string>
+    <string name="device_ver">ABCDE</string>
+    <string name="trans_type">Users</string>
+</resources>
